@@ -76,7 +76,7 @@ transition: 0.5s;
   
 }
 .landing{
-  background-image: url("/img/3.png");
+  background-image: url("../img/3.png");
   width:100%;
   height: 100vh;
   min-height: 100vh;
@@ -280,7 +280,7 @@ position: relative;
   background-position: center center;
   -webkit-background-size: cover;
     transition: 0.5s;
-background-image: url("/img/alex4.png");
+background-image: url("../img/alex4.png");
 background-size: cover;
 margin-top: 10px;
 }
@@ -809,7 +809,7 @@ letter-spacing: 1.2px;
   background-position: center center;
   -webkit-background-size: auto;
     transition: 0.5s;
-background-image: url("/img/g3.png");
+background-image: url("../img/g3.png");
 background-size: auto;
 margin-top: 10px;
 }
@@ -861,7 +861,7 @@ letter-spacing: 1.2px;
   background-position: center center;
   -webkit-background-size: auto;
     transition: 0.5s;
-background-image: url("/img/l4.png");
+background-image: url("../img/l4.png");
 background-size: auto;
 margin-top: 10px;
 }
