@@ -757,7 +757,7 @@ z-index: 9;
   background-position: center center;
   -webkit-background-size: auto;
     transition: 0.5s;
-background-image: url("/img/cairo3.png");
+background-image: url("../img/cairo3.png");
 background-size: auto;
 margin-top: 10px;
 }
